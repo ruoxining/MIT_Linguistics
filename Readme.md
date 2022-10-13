@@ -166,7 +166,7 @@ You can refer to the following instructions on how to use the Github Desktop:
 
 ## Updates
 
-**2022-10-12** Updated the reading metrials for 24.902: Syntax
+**2022-10-12** Updated the lecture note and assignments for 24.902: Syntax
 
 **2022-10-12** Updated the textbooks for 24.900: Introduction to Linguistics and assignments for 24.917: Conlangs: How to Construct a Language.
 
