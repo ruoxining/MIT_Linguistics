@@ -6,7 +6,7 @@ This repository is aimed at providing learning roadmap, materials, assignments f
 
 I browsed the MIT OpenCourseWare website and downloaded these information by hand.
 
-All the infotmation are from 
+All the infotmation are from
 
 - MIT OpenCourseWare
 - Z-library
@@ -37,7 +37,7 @@ Have fun reading!
 
 [Advanced Syntax | Linguistics and Philosophy | MIT OpenCourseWare](https://ocw.mit.edu/courses/24-952-advanced-syntax-spring-2007/)
 
-[G] () Computational Models of Discourse
+[G] (R) 6.892: Computational Models of Discourse
 
 [Computational Models of Discourse | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-892-computational-models-of-discourse-spring-2004/)
 
@@ -69,7 +69,7 @@ Have fun reading!
 
 [Language and Its Structure I: Phonology | Linguistics and Philosophy | MIT OpenCourseWare](https://ocw.mit.edu/courses/24-901-language-and-its-structure-i-phonology-fall-2010/)
 
-[U][G] () Language and Its Structure II: Syntax
+[U][G] (R, A) Language and Its Structure II: Syntax
 
 [Language and its Structure II: Syntax | Linguistics and Philosophy | MIT OpenCourseWare](https://ocw.mit.edu/courses/24-902-language-and-its-structure-ii-syntax-fall-2003/)
 
@@ -165,6 +165,8 @@ You can refer to the following instructions on how to use the Github Desktop:
 4. Write your anwsers under the problems.
 
 ## Updates
+
+**2022-10-12** Updated the reading metrials for 24.902: Syntax
 
 **2022-10-12** Updated the textbooks for 24.900: Introduction to Linguistics and assignments for 24.917: Conlangs: How to Construct a Language.
 
