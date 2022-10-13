@@ -164,6 +164,7 @@ If you don not mind the latest update and simply want to download a folder from 
 1. Navigate to the webpage of the folder you want to download, by clicking the folder.
 2. Copy the URL of this webpage.
 3. Paste it into one of the following Github Download Tools:
+
    [GitZip (kinolien.github.io)
    ](http://kinolien.github.io/gitzip/)
 
