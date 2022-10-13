@@ -157,6 +157,18 @@ You can refer to the following instructions on how to use the Github Desktop:
 
 [从 GitHub Desktop 克隆和复刻仓库 - GitHub Docs](https://docs.github.com/cn/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop)
 
+## How to Quickly Download a Folder from this Repository
+
+If you don not mind the latest update and simply want to download a folder from this repository, follow the following steps:
+
+1. Navigate to the webpage of the folder you want to download, by clicking the folder.
+2. Copy the URL of this webpage.
+3. Paste it into one of the following Github Download Tools:
+   [GitZip (kinolien.github.io)
+   ](http://kinolien.github.io/gitzip/)
+
+   [GitHub directory downloader (luckly-mjw.cn)](http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html)
+
 ## How to Utilize the Assignment Files
 
 1. Fork this Repository to your own Account.
